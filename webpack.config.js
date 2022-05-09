@@ -9,6 +9,11 @@ module.exports = {
     path: path.resolve(__dirname, 'dist'),
     clean: true
   },
+  resolve: {
+    alias: {
+      images: path.resolve(__dirname, './src/assets/img'),
+    }
+  },
   mode: 'development',
   plugins: [
     new HtmlWebpackPlugin({
@@ -25,8 +30,11 @@ module.exports = {
         use: ['style-loader', 'css-loader']
       },
       {
-        test: /\.(png|svg|jpg|jpeg|gif)$/i,
-        type: 'asset/resource'
+        test: /\.(gif|png|jpg|jpeg|svg)?$/,
+        loader: 'file-loader',
+        options: {
+          name: 'assets/img/[name].[ext]',
+        }
       },
       {
         test: /\.scss$/,

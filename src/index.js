@@ -14,98 +14,98 @@ import './assets/styles/style.scss'
         ru: '>',
         shift_en: '£',
         shift_ru: '<',
-        class: ''
+        class: 'Backquote'
       },
       {
         en: '1',
         ru: '1',
         shift_en: '!',
         shift_ru: '!',
-        class: 'digit1'
+        class: 'Digit1'
       },
       {
         en: '2',
         ru: '2',
         shift_en: '@',
         shift_ru: '"',
-        class: 'digit2'
+        class: 'Digit2'
       },
       {
         en: '3',
         ru: '3',
         shift_en: '#',
         shift_ru: '№',
-        class: 'digit3'
+        class: 'Digit3'
       },
       {
         en: '4',
         ru: '4',
         shift_en: '$',
         shift_ru: '%',
-        class: 'digit4'
+        class: 'Digit4'
       },
       {
         en: '5',
         ru: '5',
         shift_en: '%',
         shift_ru: ':',
-        class: 'digit5'
+        class: 'Digit5'
       },
       {
         en: '6',
         ru: '6',
         shift_en: '^',
         shift_ru: ',',
-        class: 'digit6'
+        class: 'Digit6'
       },
       {
         en: '7',
         ru: '7',
         shift_en: '&',
         shift_ru: '.',
-        class: 'digit7'
+        class: 'Digit7'
       },
       {
         en: '8',
         ru: '8',
         shift_en: '*',
         shift_ru: ';',
-        class: 'digit8'
+        class: 'Digit8'
       },
       {
         en: '9',
         ru: '9',
         shift_en: '(',
         shift_ru: '(',
-        class: 'digit9'
+        class: 'Digit9'
       },
       {
         en: '0',
         ru: '0',
         shift_en: ')',
         shift_ru: ')',
-        class: 'digit0'
+        class: 'Digit0'
       },
       {
         en: '-',
         ru: '-',
         shift_en: '_',
         shift_ru: '_',
-        class: 'minus'
+        class: 'Minus'
       },
       {
         en: '=',
         ru: '=',
         shift_en: '+',
         shift_ru: '+',
-        class: 'even'
+        class: 'Equal'
       },
       {
         en: 'Backspace',
         ru: 'Backspace',
         shift_en: 'Backspace',
         shift_ru: 'Backspace',
-        class: 'backspace'
+        class: 'Backspace'
       }
     ],
     [
@@ -114,91 +114,91 @@ import './assets/styles/style.scss'
         ru: 'Tab',
         shift_en: 'Tab',
         shift_ru: 'Tab',
-        class: 'tab'
+        class: 'Tab'
       },
       {
         en: 'q',
         ru: 'й',
-        shift_en: 'Tab',
+        shift_en: 'Q',
         shift_ru: 'Й',
-        class: 'q'
+        class: 'KeyQ'
       },
       {
         en: 'w',
         ru: 'ц',
         shift_en: 'W',
         shift_ru: 'Ц',
-        class: 'w'
+        class: 'KeyW'
       },
       {
         en: 'e',
         ru: 'у',
         shift_en: 'E',
         shift_ru: 'У',
-        class: 'e'
+        class: 'KeyE'
       },
       {
         en: 'r',
         ru: 'к',
         shift_en: 'R',
         shift_ru: 'К',
-        class: 'r'
+        class: 'KeyR'
       },
       {
         en: 't',
         ru: 'е',
         shift_en: 'T',
         shift_ru: 'Е',
-        class: 't'
+        class: 'KeyT'
       },
       {
         en: 'y',
         ru: 'н',
         shift_en: 'Y',
         shift_ru: 'Н',
-        class: 'y'
+        class: 'KeyY'
       },
       {
         en: 'u',
         ru: 'г',
         shift_en: 'U',
         shift_ru: 'Г',
-        class: 'u'
+        class: 'KeyU'
       },
       {
         en: 'i',
         ru: 'ш',
         shift_en: 'I',
         shift_ru: 'Ш',
-        class: 'i'
+        class: 'KeyI'
       },
       {
         en: 'o',
         ru: 'щ',
         shift_en: 'O',
         shift_ru: 'Щ',
-        class: 'o'
+        class: 'KeyO'
       },
       {
         en: 'p',
         ru: 'з',
         shift_en: 'P',
         shift_ru: 'З',
-        class: 'p'
+        class: 'KeyP'
       },
       {
         en: '[',
         ru: 'х',
         shift_en: '{',
         shift_ru: 'Х',
-        class: 'backet-left'
+        class: 'BracketLeft'
       },
       {
         en: ']',
         ru: 'ъ',
         shift_en: '}',
         shift_ru: 'Ъ',
-        class: 'backet-right'
+        class: 'BracketRight'
       }
     ],
     [
@@ -207,98 +207,98 @@ import './assets/styles/style.scss'
         ru: 'CapsLock',
         shift_en: 'CapsLock',
         shift_ru: 'CapsLock',
-        class: 'capslock'
+        class: 'CapsLock'
       },
       {
         en: 'a',
         ru: 'ф',
         shift_en: 'A',
         shift_ru: 'Ф',
-        class: ''
+        class: 'KeyA'
       },
       {
         en: 's',
         ru: 'ы',
         shift_en: 'S',
         shift_ru: 'Ы',
-        class: ''
+        class: 'KeyS'
       },
       {
         en: 'd',
         ru: 'в',
         shift_en: 'D',
         shift_ru: 'В',
-        class: ''
+        class: 'KeyD'
       },
       {
         en: 'f',
         ru: 'а',
         shift_en: 'F',
         shift_ru: 'А',
-        class: ''
+        class: 'KeyF'
       },
       {
         en: 'g',
         ru: 'п',
         shift_en: 'G',
         shift_ru: 'П',
-        class: ''
+        class: 'KeyG'
       },
       {
         en: 'h',
         ru: 'р',
         shift_en: 'H',
         shift_ru: 'Р',
-        class: ''
+        class: 'KeyH'
       },
       {
         en: 'j',
         ru: 'о',
         shift_en: 'J',
         shift_ru: 'О',
-        class: ''
+        class: 'KeyJ'
       },
       {
         en: 'k',
         ru: 'л',
         shift_en: 'K',
         shift_ru: 'Л',
-        class: ''
+        class: 'KeyK'
       },
       {
         en: 'l',
         ru: 'д',
         shift_en: 'L',
         shift_ru: 'Д',
-        class: ''
+        class: 'KeyL'
       },
       {
         en: ';',
         ru: 'ж',
         shift_en: ':',
         shift_ru: 'Ж',
-        class: ''
+        class: 'Semicolon'
       },
       {
         en: "'",
         ru: 'э',
         shift_en: '"',
         shift_ru: 'Э',
-        class: ''
+        class: 'Quote'
       },
       {
         en: '\\',
         ru: 'ё',
         shift_en: '|',
         shift_ru: 'Ё',
-        class: 'backslash'
+        class: 'Backslash'
       },
       {
         en: 'Enter',
         ru: 'Enter',
         shift_en: 'Enter',
         shift_ru: 'Enter',
-        class: 'enter'
+        class: 'Enter'
       }
     ],
     [
@@ -307,98 +307,98 @@ import './assets/styles/style.scss'
         ru: 'Shift',
         shift_en: 'Shift',
         shift_ru: 'Shift',
-        class: 'shift-l'
+        class: 'ShiftLeft'
       },
       {
         en: '`',
         ru: ']',
         shift_en: '~',
         shift_ru: '[',
-        class: ''
+        class: 'IntlBackslash'
       },
       {
         en: 'z',
         ru: 'я',
         shift_en: 'Z',
         shift_ru: 'Я',
-        class: ''
+        class: 'KeyZ'
       },
       {
         en: 'x',
         ru: 'ч',
         shift_en: 'X',
         shift_ru: 'Ч',
-        class: ''
+        class: 'KeyX'
       },
       {
         en: 'c',
         ru: 'с',
         shift_en: 'C',
         shift_ru: 'С',
-        class: ''
+        class: 'KeyC'
       },
       {
         en: 'v',
         ru: 'м',
         shift_en: 'V',
         shift_ru: 'М',
-        class: ''
+        class: 'KeyV'
       },
       {
         en: 'b',
         ru: 'и',
         shift_en: 'B',
         shift_ru: 'И',
-        class: ''
+        class: 'KeyB'
       },
       {
         en: 'n',
         ru: 'т',
         shift_en: 'N',
         shift_ru: 'Т',
-        class: ''
+        class: 'KeyN'
       },
       {
         en: 'm',
         ru: 'ь',
         shift_en: 'M',
         shift_ru: 'Ь',
-        class: ''
+        class: 'KeyM'
       },
       {
         en: ',',
         ru: 'б',
         shift_en: '<',
         shift_ru: 'Б',
-        class: ''
+        class: 'Comma'
       },
       {
         en: '.',
         ru: 'ю',
         shift_en: '>',
         shift_ru: 'Ю',
-        class: ''
+        class: 'Period'
       },
       {
         en: '/',
         ru: '/',
         shift_en: '?',
         shift_ru: '?',
-        class: ''
+        class: 'Slash'
       },
       {
         en: '▲',
         ru: '▲',
         shift_en: '▲',
         shift_ru: '▲',
-        class: 'up'
+        class: 'ArrowUp'
       },
       {
         en: 'Shift',
         ru: 'Shift',
         shift_en: 'Shift',
         shift_ru: 'Shift',
-        class: 'shift-r'
+        class: 'ShiftRight'
       }
     ],
     [
@@ -407,63 +407,63 @@ import './assets/styles/style.scss'
         ru: 'Ctr',
         shift_en: 'Ctr',
         shift_ru: 'Ctr',
-        class: 'ctr-l'
+        class: 'ControlLeft'
       },
       {
         en: 'Alt',
         ru: 'Alt',
         shift_en: 'Alt',
         shift_ru: 'Alt',
-        class: 'alt-l'
+        class: 'AltLeft'
       },
       {
         en: 'Cmd',
         ru: 'Cmd',
         shift_en: 'Cmd',
         shift_ru: 'Cmd',
-        class: 'cmd-l'
+        class: 'MetaLeft'
       },
       {
         en: 'Space',
         ru: 'Space',
         shift_en: 'Space',
         shift_ru: 'Space',
-        class: 'space'
+        class: 'Space'
       },
       {
         en: 'Cmd',
         ru: 'Cmd',
         shift_en: 'Cmd',
         shift_ru: 'Cmd',
-        class: 'cmd-r'
+        class: 'MetaRight'
       },
       {
         en: 'Alt',
         ru: 'Alt',
         shift_en: 'Alt',
         shift_ru: 'Alt',
-        class: 'alt-r'
+        class: 'AltRight'
       },
       {
         en: '◄',
         ru: '◄',
         shift_en: '◄',
         shift_ru: '◄',
-        class: 'left'
+        class: 'ArrowLeft'
       },
       {
         en: '▼',
         ru: '▼',
         shift_en: '▼',
         shift_ru: '▼',
-        class: 'down'
+        class: 'ArrowDown'
       },
       {
         en: '►',
         ru: '►',
         shift_en: '►',
         shift_ru: '►',
-        class: 'right'
+        class: 'ArrowRight'
       }
     ]
   ]
@@ -530,18 +530,16 @@ import './assets/styles/style.scss'
 
   function updateTextArea(value) {
     if (
-      value == 'Control' || 
+      value == 'Ctr' || 
       value == 'Alt' || 
       value == 'Del' || 
       value == 'CapsLock' || 
       value == 'Shift' ||
-      value == 'Meta' || 
-      value == 'ArrowLeft' ||
-      value == 'ArrowRight' ||
-      value == 'ArrowUp' ||
-      value == 'ArrowDown'
+      value == 'Cmd'
     ) {
       return null
+    } else if ( value == '◄' || value == '►' || value == '▲' || value == '▼') {
+      textarea.focus()
     } else if (value == 'Backspace' && textarea !== document.activeElement) {
       textarea.value = textarea.value.substring(0, textarea.value.length - 1)
     } else if (value == 'Space' && textarea !== document.activeElement) {
@@ -568,7 +566,9 @@ import './assets/styles/style.scss'
   body.appendChild(p)
 
   window.addEventListener('keydown', function(e) {
-    updateTextArea(e.key)
+    const keyValue = document.querySelector(`.${e.code}`).getAttribute('keyname')
+
+    updateTextArea(keyValue)
 
     // Disable Tab
     if (e.code == 'Tab') {
@@ -583,8 +583,8 @@ import './assets/styles/style.scss'
 
       renderKeyboard()
 
-      document.querySelector('.ctr-l').classList.add('active')
-      document.querySelector('.alt-l').classList.add('active')
+      document.querySelector('.ControlLeft').classList.add('active')
+      document.querySelector('.AltLeft').classList.add('active')
     }
 
     // Shift On
@@ -604,51 +604,51 @@ import './assets/styles/style.scss'
     }
 
     if (e.code == 'ShiftLeft') {
-      document.querySelector('.shift-l').classList.add('active')
+      document.querySelector('.ShiftLeft').classList.add('active')
     }
 
     if (e.code == 'ShiftRight') {
-      document.querySelector('.shift-r').classList.add('active')
+      document.querySelector('.ShiftRight').classList.add('active')
     }
 
     if (e.code == 'ControlLeft') {
-      document.querySelector('.ctr-l').classList.add('active')
+      document.querySelector('.ControlLeft').classList.add('active')
     }
 
     if (e.code == 'Backslash') {
-      document.querySelector('.backslash').classList.add('active')
+      document.querySelector('.Backslash').classList.add('active')
     }
 
     if (e.code == 'AltLeft') {
-      document.querySelector('.alt-l').classList.add('active')
+      document.querySelector('.AltLeft').classList.add('active')
     }
 
     if (e.code == 'AltRight') {
-      document.querySelector('.alt-r').classList.add('active')
+      document.querySelector('.AltRight').classList.add('active')
     }
 
     if (e.code == 'MetaLeft') {
-      document.querySelector('.cmd-l').classList.add('active')
+      document.querySelector('.MetaLeft').classList.add('active')
     }
 
     if (e.code == 'MetaRight') {
-      document.querySelector('.cmd-r').classList.add('active')
+      document.querySelector('.MetaRight').classList.add('active')
     }
 
     if (e.code == 'ArrowLeft') {
-      document.querySelector('.left').classList.add('active')
+      document.querySelector('.ArrowLeft').classList.add('active')
     }
 
     if (e.code == 'ArrowRight') {
-      document.querySelector('.right').classList.add('active')
+      document.querySelector('.ArrowRight').classList.add('active')
     }
 
     if (e.code == 'ArrowUp') {
-      document.querySelector('.up').classList.add('active')
+      document.querySelector('.ArrowUp').classList.add('active')
     }
 
     if (e.code == 'ArrowDown') {
-      document.querySelector('.down').classList.add('active')
+      document.querySelector('.ArrowDown').classList.add('active')
     }
 
     let activeKey = document.querySelector(`[keyname="${e.key}"]`)
@@ -678,51 +678,51 @@ import './assets/styles/style.scss'
     }
 
     if (e.code == 'ShiftLeft') {
-      document.querySelector('.shift-l').classList.remove('active')
+      document.querySelector('.ShiftLeft').classList.remove('active')
     }
 
     if (e.code == 'ShiftRight') {
-      document.querySelector('.shift-r').classList.remove('active')
+      document.querySelector('.ShiftRight').classList.remove('active')
     }
 
     if (e.code == 'ControlLeft') {
-      document.querySelector('.ctr-l').classList.remove('active')
+      document.querySelector('.ControlLeft').classList.remove('active')
     }
 
     if (e.code == 'Backslash') {
-      document.querySelector('.backslash').classList.remove('active')
+      document.querySelector('.Backslash').classList.remove('active')
     }
 
     if (e.code == 'AltLeft') {
-      document.querySelector('.alt-l').classList.remove('active')
+      document.querySelector('.AltLeft').classList.remove('active')
     }
 
     if (e.code == 'AltRight') {
-      document.querySelector('.alt-r').classList.remove('active')
+      document.querySelector('.AltRight').classList.remove('active')
     }
 
     if (e.code == 'MetaLeft') {
-      document.querySelector('.cmd-l').classList.remove('active')
+      document.querySelector('.MetaLeft').classList.remove('active')
     }
 
     if (e.code == 'MetaRight') {
-      document.querySelector('.cmd-r').classList.remove('active')
+      document.querySelector('.MetaRight').classList.remove('active')
     }
 
     if (e.code == 'ArrowLeft') {
-      document.querySelector('.left').classList.remove('active')
+      document.querySelector('.ArrowLeft').classList.remove('active')
     }
 
     if (e.code == 'ArrowRight') {
-      document.querySelector('.right').classList.remove('active')
+      document.querySelector('.ArrowRight').classList.remove('active')
     }
 
     if (e.code == 'ArrowUp') {
-      document.querySelector('.up').classList.remove('active')
+      document.querySelector('.ArrowUp').classList.remove('active')
     }
 
     if (e.code == 'ArrowDown') {
-      document.querySelector('.down').classList.remove('active')
+      document.querySelector('.ArrowDown').classList.remove('active')
     }
 
     let activeKey = document.querySelector(`[keyname="${e.key}"]`)

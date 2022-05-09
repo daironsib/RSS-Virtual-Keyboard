@@ -55,32 +55,32 @@ body {
       background: #000;
     }
 
-    &.backspace,
-    &.tab {
+    &.Backspace,
+    &.Tab {
       width: 100px;
     }
 
-    &.capslock {
+    &.CapsLock {
       width: 80px;
     }
 
-    &.enter {
+    &.Enter {
       width: 50px;
     }
 
-    &.shift-l {
+    &.ShiftLeft {
       width: 60px;
     }
 
-    &.shift-r {
+    &.ShiftRight {
       width: 40px;
     }
 
-    &.space {
+    &.Space {
       width: 320px;
     }
 
-    &.left {
+    &.ArrowLeft {
       font-size: 25px;
     }
   }

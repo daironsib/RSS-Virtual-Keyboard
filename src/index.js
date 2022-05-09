@@ -651,7 +651,7 @@ import './assets/styles/style.scss'
       document.querySelector('.ArrowDown').classList.add('active')
     }
 
-    let activeKey = document.querySelector(`[keyname="${e.key}"]`)
+    let activeKey = document.querySelector(`.${e.code}`)
     if (activeKey && e.key != 'Shift' && e.key != 'Alt') {
       activeKey.classList.add('active')
     }
@@ -725,7 +725,7 @@ import './assets/styles/style.scss'
       document.querySelector('.ArrowDown').classList.remove('active')
     }
 
-    let activeKey = document.querySelector(`[keyname="${e.key}"]`)
+    let activeKey = document.querySelector(`.${e.code}`)
 
     if (activeKey) {
       activeKey.classList.remove('active')

@@ -557,7 +557,7 @@ import './assets/styles/style.scss'
 
   // Text
   let p = document.createElement('p')
-  p.innerHTML = 'Клавиатура создана в операционной системе MacOS<br/>Для переключения языка комбинация: левыe ctrl + alt (option)'
+  p.innerHTML = 'Клавиатура создана в операционной системе MacOS<br/>Для переключения языка комбинация: левыe ctrl + alt (option) <br/><br/> <a href="https://github.com/daironsib/RSS-Virtual-Keyboard/pull/1" target="_blank">Ссылка на Pull Request: https://github.com/daironsib/RSS-Virtual-Keyboard/pull/1</a>'
 
 
   body.appendChild(h1)
